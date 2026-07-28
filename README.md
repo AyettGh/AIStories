@@ -1,7 +1,5 @@
 # AI Stories
 
-A personalized micro-drama generator with a light Spotify-inspired interface.
-
 The project turns an idea or a short script into a small motion-comic MP4. It was rebuilt to remove the original paid MuAPI dependency.
 
 ## Free architecture
